@@ -1,8 +1,6 @@
 
 class Calculator:
-
-   
-    
+ 
    def sum(a,b):
        return a+b
    
@@ -11,4 +9,6 @@ class Calculator:
        result = a*urbag_constant+b
        return result
     
-
+   def pirueta(a,b,c):
+       return a*b*b*c*c*c
+    
